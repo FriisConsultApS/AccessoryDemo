@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAccessorySetupBluetoothServices</key>
+	<array>
+		<string>E4E8A8E5-934A-454D-AAE8-61105A1EC2D5</string>
+		<string>B95A2DD0-DD96-4AEB-8284-CE317BD7D3A0</string>
+		<string>B95A2DD0-DD96-4AEB-8284-CE317BD7D3A1</string>
+		<string>B95A2DD0-DD96-4AEB-8284-CE317BD7D3B0</string>
+		<string>B95A2DD0-DD96-4AEB-8284-CE317BD7D3B1</string>
+		<string>B95A2DD0-DD96-4AEB-8284-CE317BD7D3A2</string>
+		<string>CC7314CC-003C-40B2-9372-4881E4805672</string>
+		<string>E4E8A8E5-934A-454D-AAE8-61105A1EC2D5</string>
+		<string>AA80</string>
+	</array>
+	<key>NSAccessorySetupKitSupports</key>
+	<array>
+		<string>Bluetooth</string>
+	</array>
+</dict>
+</plist>
